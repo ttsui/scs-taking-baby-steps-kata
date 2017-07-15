@@ -2,8 +2,9 @@
 This kata based on [Taking Baby Steps](http://blog.adrianbolboaca.ro/2013/03/taking-baby-steps/)
 
 ##Setup
-Decide which programming language you would like to do the exercise in and follow the instructions `README.md` in 
+1. Decide which programming language you would like to do the exercise in and follow the instructions `README.md` in 
 corresponding directory.  
+2. Find something to use as a timer, e.g. on your phone or [this online timer](https://www.google.com.au/search?q=google+timer).
 
 ##Rules
 The rules are the following:
