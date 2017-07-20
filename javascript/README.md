@@ -1,4 +1,4 @@
-##Setup
+## Setup
 ```
 yarn install
 ```
@@ -7,7 +7,7 @@ OR
 npm install
 ```
 
-##Run Tests
+## Run Tests
 ```
 yarn test
 ```
@@ -16,5 +16,5 @@ OR
 npm test
 ```
 
-##Test Location
+## Test Location
 Put your tests in `src/__tests__/`

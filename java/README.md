@@ -1,12 +1,12 @@
-##Setup
+## Setup
 ```
 ./gradlew
 ```
 
-##Run Tests
+## Run Tests
 ```
 ./gradlew test
 ```
 
-##Test Location
+## Test Location
 Put your tests in `src/test/java/`

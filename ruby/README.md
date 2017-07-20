@@ -1,12 +1,12 @@
-##Setup
+## Setup
 ```
 bin/setup
 ```
 
-##Run Tests
+## Run Tests
 ```
 rspec
 ```
 
-##Test Location
+## Test Location
 Put your tests in `spec/`

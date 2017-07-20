@@ -1,12 +1,12 @@
 # Software Craftsmanship Sydney - Taking Baby Steps Kata
 This kata based on [Taking Baby Steps](http://blog.adrianbolboaca.ro/2013/03/taking-baby-steps/)
 
-##Setup
+## Setup
 1. Decide which programming language you would like to do the exercise in and follow the instructions `README.md` in 
 corresponding directory.  
 2. Find something to use as a timer, e.g. on your phone or [this online timer](https://www.google.com.au/search?q=google+timer).
 
-##Rules
+## Rules
 The rules are the following:
 
 1. Setup a timer for 2 minutes interval when you start.
@@ -20,7 +20,7 @@ The rules are the following:
 5. Restart the timer (no discussions in between timers)
 6. Go to 2.
  
-##Exercise
+## Exercise
 Implement a console based two player Noughts & Crosses (Tic-Tac-Toe) application. Your application should:
 - Print to the console the current state of the board with co-ordinates;
 - Accept user input as a set of co-ordinates where to place their piece;
