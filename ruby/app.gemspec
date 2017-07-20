@@ -6,12 +6,10 @@ require "app/version"
 Gem::Specification.new do |spec|
   spec.name          = "app"
   spec.version       = App::VERSION
-  spec.authors       = ["Tony Tsui"]
-  spec.email         = ["tsui.tony@gmail.com"]
+  spec.authors       = ["Software Craftsmanship"]
 
-  spec.summary       = ""
-  spec.description   = ""
-  spec.homepage      = ""
+  spec.summary       = "Software Craftsmanship Sydney - Taking Baby Steps Kata"
+  spec.description   = "Software Craftsmanship Sydney - Taking Baby Steps Kata"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
